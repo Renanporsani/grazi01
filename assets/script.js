@@ -90,6 +90,7 @@ $(document).ready(function(){
             case "19/11": titulo = "19 de Novembro de 2016"; mensagem = "<p>Festa da fazenda, onde dançamos juntos.</p>";break;
             case "29/11": titulo = "29 de Novembro de 2016"; mensagem = "<p>Esse foi o dia que falei que te amava.</p></p>";break;
             case "24/05": titulo = "24 de Maio de 2019"; mensagem = "<p>Pedi você em namoro.</p>";break;
+            case "22/09": titulo = "22 de Setembro de 2023"; mensagem = "<p>Pedi você em namoro em casamento.</p><p>VAMOOOOOSSSSSSS NOSSSS CASARRRRRR</p>";break;
         }
 
         mostraPopUp(true, titulo, mensagem);
